@@ -1,5 +1,5 @@
 {
-  "name": "merge-graphql-schemas",
+  "name": "@goodwaygroup/merge-graphql-schemas",
   "author": "The Guild",
   "version": "1.7.3",
   "description": "A utility library to facilitate merging of modularized GraphQL schemas and resolver objects.",
